@@ -1,1 +1,1 @@
-print("xddd")
+print("version: 1")

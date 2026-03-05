@@ -1,2 +1,2 @@
 print("config.js")
-print("version: ")
+print("version: 2")
